@@ -5,10 +5,16 @@ Applicatie ontwikkeling Leerjaar 1 PIU
 Taken Verdeling
 
 Pepijn,
-Informatie, Computers, Account
+
+Pagina's:
+Informatie, Computers
+Functie: Account
+
 Nils,
+Pagina:
 Reparaties
-Ewan,
-Logo
-Abdellah,
-Home
+
+Ewan
+Ontwerp: Logo
+Abdellah
+Pagina: Home
