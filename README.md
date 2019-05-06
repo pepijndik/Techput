@@ -2,7 +2,9 @@
 
 Applicatie ontwikkeling Leerjaar 1 PIU
 
-Taken Verdeling
+Taken Verdeling:
+
+Template van de Pagina Ontwerpen we met het gehele Groepje.
 
 Pepijn,
 
