@@ -1,4 +1,7 @@
 .fakeimg {
   height: 200px;
-  background: #aaa;
+  background: black;
+}
+.logo {
+  background-color: blue;
 }
