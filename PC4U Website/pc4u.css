@@ -2,6 +2,33 @@
   height: 200px;
   background: black;
 }
+.header {
+  position: relative;
+}
 .logo {
-  background-color: blue;
+  position: absolute;
+  top: -10px;
+  right: 70%;
+  width: 25%;
+}
+.naam {
+  color: orange;
+  font-size: 90px;
+}
+.naam_info {
+  color: black;
+  font-size: 30px;
+}
+@media only screen and (min-width: 1000px) {
+  .logo {
+    width: 250px;
+    top: 0px;
+  }
+  .naam {
+    font-size: 110px;
+  }
+  .naam_info {
+    color: black;
+    font-size: 45px;
+  }
 }
