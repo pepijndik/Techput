@@ -57,7 +57,7 @@
             <a class="nav-link" href="/reparaties.html">Reparaties</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/informatie.html">Informatie</a>
+            <a class="navbar-brand" href="/informatie.html">Informatie</a>
           </li>
         </ul>
       </div>
@@ -97,7 +97,31 @@
         <div class="col-sm-8">
           <h2>Waar wij ons bevinden?</h2>
           <h5>Paxlaan 28, 2211HG hoofddorp</h5>
-          <div class="maps"><p>GoolgeMaps API</p></div>
+          <div style="width: 800px;position: relative;">
+            <iframe
+              width="800"
+              height="500"
+              src="https://maps.google.com/maps?width=800&amp;height=500&amp;hl=en&amp;q=Paxlaan%2028%2C%202211HG%20hoofddorp+(PC4U)&amp;ie=UTF8&amp;t=k&amp;z=11&amp;iwloc=B&amp;output=embed"
+              frameborder="0"
+              scrolling="no"
+              marginheight="0"
+              marginwidth="0"
+            ></iframe>
+            <div
+              style="position: absolute;width: 80%;bottom: 10px;left: 0;right: 0;margin-left: auto;margin-right: auto;color: #000;text-align: center;"
+            >
+              <small style="line-height: 1.8;font-size: 2px;background: #fff;"
+                >Powerd by <a href="https://www.pdik.nl">Pdik Systems</a></small
+              >
+            </div>
+            <style>
+              #gmap_canvas img {
+                max-width: none !important;
+                background: none !important;
+              }
+            </style>
+          </div>
+          <br />
           <p>
             Wij van PC4U hechten alle waarden aan uw computer. En hierom staan
             wij 24/7 klaar om zo snel mogelijk uw PC te <u>Fixen</u>
