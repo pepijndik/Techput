@@ -12,7 +12,7 @@ include("src/auth.php");
 <body>
 <div class="form">
 <h1 >Welkom<?php echo $_SESSION['username']; ?>!</h1>
-<p >Dit is Uw account Pagina.</p>
+<p >Dit is Uw account Pagina.</p>   
 <p>Bekijk hier uw Afspraken</p>
 <p><a href="dashboard.php">dashboard</a></p>
 <a href="logout.php">Logout</a>
