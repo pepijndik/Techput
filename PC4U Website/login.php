@@ -8,7 +8,7 @@
 </head>
 <body>
 <?php
-require('db.php');
+require('src/db.php');
 session_start();
 if (isset($_POST['username'])){
 	$username = stripslashes($_REQUEST['username']);

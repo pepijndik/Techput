@@ -1,7 +1,7 @@
-<!--PHP login System by WEBDEVTRICK (https://webdevtrick.com) -->
+<!--PHP login System by Pdik (https://Pdik.nl) -->
 <?php
-require('db.php');
-include("auth.php");
+require('src/db.php');
+include("src/auth.php");
 ?>
 <!DOCTYPE html>
 <html>
